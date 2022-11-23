@@ -7,8 +7,14 @@ public class Main {
 	}
 	
 	static void method1() {
-	
+		
 	
 	}
+	
+	static void method2() {
+		
+	
+	}
+	
 	
 }
