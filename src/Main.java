@@ -11,8 +11,8 @@ public class Main {
 	
 	}
 	
-	static void method2() {
-		
+	static void branch1() {
+		System.out.println("branch1의 메소드")
 	
 	}
 	
