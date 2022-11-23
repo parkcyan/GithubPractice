@@ -6,4 +6,9 @@ public class Main {
 
 	}
 	
+	static void method1() {
+	
+	
+	}
+	
 }
